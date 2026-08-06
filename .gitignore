@@ -1,0 +1,7 @@
+output/*.tex
+output/.combined.md
+output/.meta.yaml
+*.aux
+*.log
+*.out
+.DS_Store
