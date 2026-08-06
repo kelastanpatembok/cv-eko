@@ -34,7 +34,13 @@ for p in "${PIECES[@]}"; do
   echo "  - $p"
 done
 
-cat "${PIECES[@]}" > "$OUT_DIR/.combined.md"
+# Join pieces with a blank line between each so headings and paragraphs
+# don't bleed together across file boundaries.
+: > "$OUT_DIR/.combined.md"
+for p in "${PIECES[@]}"; do
+  cat "$p" >> "$OUT_DIR/.combined.md"
+  printf '\n\n' >> "$OUT_DIR/.combined.md"
+done
 
 cat > "$OUT_DIR/.meta.yaml" <<EOF
 ---
