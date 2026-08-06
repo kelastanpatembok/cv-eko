@@ -10,8 +10,9 @@
 | **Java** | Spring Boot 3, Swing, JSP/Servlet, J2ME, JDBC |
 | **C / C++ / C# / .NET** | C#.NET, VB.NET, VC++ .NET, Visual Basic 6, MIDI/Atmel tooling |
 | **PHP** | CodeIgniter, pure PHP, WordPress, ExtJS |
-| **JavaScript / TypeScript** | SvelteKit 2, Svelte 5, Astro.js, Node.js, Dojo, jQuery |
-| **SQL & NoSQL** | PostgreSQL, MySQL, MSSQL, Oracle, SQLite, MongoDB, Redis |
+| **JavaScript / TypeScript** | SvelteKit 2, Svelte 5, Astro.js, Node.js, Next.js, Dojo, jQuery |
+| **Dart / Flutter** | Flutter (Android), custom widgets, on-device SQLite |
+| **SQL & NoSQL** | PostgreSQL, MySQL, MSSQL, Oracle, SQLite, MongoDB, Redis, Supabase |
 
 ### Full-Stack on the Eco Framework
 
@@ -24,4 +25,5 @@
 
 ### Other
 
-- **Mac / iOS / Mobile:** macOS application packaging (Wine/Bottler), C# to Mac porting, Cocos2d & Cocos2d-x games, Core Data, Objective-C, .NET Compact Framework, J2ME mobile apps.
+- **Mac / iOS / Mobile:** Flutter (Android), macOS application packaging (Wine/Bottler), C# to Mac porting, Cocos2d & Cocos2d-x games, Core Data, Objective-C, .NET Compact Framework, J2ME mobile apps.
+- **Digital Signage & Embedded Players:** Java Android signage player, .NET desktop player, LG WebOS playback, Canva-like drag-and-drop layout editor, real-time device monitoring and OTA content deployment.

@@ -13,3 +13,9 @@ Rebuild of a legacy Laravel "ODAS+IST" system into a modern SvelteKit 2 frontend
 
 **#4. training — online training / LMS platform**
 An Eco estate composed of reusable domains — `auth`, `community`, `content`, `courses`, `payments`, `profile`, `site`, `slides`, plus an LMS frontend — rewritten in Rust (axum) from a legacy Java monolith. Handles course/community management, S3/local file uploads, payments, and landing-page/content delivery, deployed via the standard `ecompose.yml` + `eco up` flow.
+
+**#5. Quran Guardian — Flutter Quran reading app** — <https://quranguardian.vercel.app>
+A Flutter mobile app for immersive Quran reading and habit-building: contribution-calendar-style streak/consistency tracker, Instagram-like hadith & Islamic-history stories, distraction-free full-screen reading sanctuary, verse-by-verse synchronized audio (Mishary Alafasy) with offline downloads, and a geographical reading-journey map with prayer-time countdowns. Content pipeline combines **Python scraping** of **Quran.com** structured data (translations, tafsir, verse metadata, word-by-word) persisted in **SQLite** for fast offline access on-device. Shows my full mobile-app readiness — Flutter on Android, backed by a Python/scripting data layer.
+
+**#6. MicroCMS — enterprise digital signage platform** — <https://cms.microvision.co.id>
+Multi-tenant digital signage CMS built with a **Next.js + Supabase** web backend, driving multiple presentation players: a **Java Android** app and a **.NET desktop** player. Supports real-time monitoring, over-the-air deployment/updating of content, Canva-like drag-and-drop layout management, and **LG WebOS** signage playback. Enterprise-grade security with admin-controlled access and role-based permissions (Owner / Admin / Member / Viewer).
