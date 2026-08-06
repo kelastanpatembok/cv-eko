@@ -2,7 +2,7 @@
 
 **Freelance Full-Stack Programmer & Technical Trainer**
 
-Phone : +62 811 2654 019  •  Email : swdev.bali@gmail.com
+Phone : 0811-255-0-5527  •  Email : swdev.bali@gmail.com
 
 Address : Glagah Kidul RT 2, Tamanan, Banguntapan, Bantul, DIY, 55191, Indonesia
 
